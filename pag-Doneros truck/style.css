@@ -1,0 +1,60 @@
+.Valores {
+    background-color: #cee8e5;
+    padding: 50px 0px 30px 0px;
+    text-align: center;
+}
+
+.Vision {
+    background-color: #a2d9d4;
+    padding: 50px 0px 30px 0px;
+    text-align: center;
+}
+
+.Mision {
+    background-color: #7e9cae;
+    padding: 50px 0px 30px 0px;
+    text-align: center;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+
+}
+
+.bg-custom {
+    background-color: #a2d9d4;
+}
+
+body {
+    background-color: #a2d9d4;
+}
+
+.jumbotron {
+    background-color: #a2d9d4;
+    color: #fff;
+    padding: 100px 25px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+#map {
+    height: 400px;
+    width: 100%;
+  }
+  body {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #a2d9d4;
+  }
+  .header {
+    background-color: #a2d9d4;
+    color: white;
+  }
+  .footer {
+    background-color: #a2d9d4;
+    color: #a2d9d4;
+  }
